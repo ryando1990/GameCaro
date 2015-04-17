@@ -1,0 +1,9 @@
+D:\mySchoolApp\Caro\Caro\Caro\bin\Debug\Caro.exe.config
+D:\mySchoolApp\Caro\Caro\Caro\bin\Debug\Caro.exe
+D:\mySchoolApp\Caro\Caro\Caro\bin\Debug\Caro.pdb
+D:\mySchoolApp\Caro\Caro\Caro\obj\Debug\Caro.csprojResolveAssemblyReference.cache
+D:\mySchoolApp\Caro\Caro\Caro\obj\Debug\Caro.Form1.resources
+D:\mySchoolApp\Caro\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+D:\mySchoolApp\Caro\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+D:\mySchoolApp\Caro\Caro\Caro\obj\Debug\Caro.exe
+D:\mySchoolApp\Caro\Caro\Caro\obj\Debug\Caro.pdb
